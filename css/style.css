@@ -1,4 +1,30 @@
+
+
+
+.global-header {
+    background-color:rgb(41, 46, 78);
+    font-size: large;
+}
+
+
+
+.basement {
+    background-color:rgb(41, 46, 78);
+}
+ 
+.request-our-service { 
+    background-color: #2196F3;
+
+}
+
+
+.all {
+    background-color:#2196F3 ;
+}
+
+
 p {
-    color: red;
+    color: rgb(128, 128, 128);
     font-weight: 700;
 }
+ a { color: black;}
